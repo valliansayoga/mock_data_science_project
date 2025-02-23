@@ -1,0 +1,12 @@
+[paths]
+db = "data/database.db"
+log = "./"
+pythonpath = "E:/Python/mock_data_science_project"
+
+[tables]
+churn = "churn_data"
+
+[general]
+log_level = "info"
+db_uri = "sqlite:///..."
+db_rows = 10000

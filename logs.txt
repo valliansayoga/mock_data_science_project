@@ -1,0 +1,58 @@
+2025-02-23 19:38:32 | create_mock_dataset.py (INFO)
+	Creating mock dataset
+2025-02-23 19:38:32 | create_mock_dataset.py (INFO)
+	Done creation
+2025-02-23 19:38:32 | create_mock_dataset.py (INFO)
+	Writing to database
+2025-02-23 19:38:34 | create_mock_dataset.py (INFO)
+	Done writing
+2025-02-23 19:42:34 | main.py (INFO)
+	Starting experiment for 20250223T194234_ExtraTreesClassifier
+2025-02-23 19:42:34 | main.py (INFO)
+	Preparing...
+2025-02-23 19:42:34 | utils.py (INFO)
+	Reading data from churn_data
+2025-02-23 19:42:35 | utils.py (INFO)
+	Done
+2025-02-23 19:42:35 | utils.py (INFO)
+	Splitting data into train (0.80) and test sets (0.20)
+2025-02-23 19:42:35 | utils.py (INFO)
+	Done
+2025-02-23 19:42:35 | utils.py (INFO)
+	Scaling the features of the data
+2025-02-23 19:42:35 | utils.py (INFO)
+	Done
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of y: {0: 6993, 1: 3007}
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of y_train: {0: 5580, 1: 2420}
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of y_test: {0: 1413, 1: 587}
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of features: 20
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of rows: 10000
+2025-02-23 19:42:35 | utils.py (INFO)
+	Splitting data into train (0.80) and test sets (0.20)
+2025-02-23 19:42:35 | utils.py (INFO)
+	Done
+2025-02-23 19:42:35 | utils.py (INFO)
+	Scaling the features of the data
+2025-02-23 19:42:35 | utils.py (INFO)
+	Done
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of y: {0: 6993, 1: 3007}
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of y_train: {0: 5594, 1: 2406}
+2025-02-23 19:42:35 | utils.py (INFO)
+	Count of y_test: {0: 1399, 1: 601}
+2025-02-23 19:42:35 | training.py (INFO)
+	Data is not preprocessed. Please preprocess the data.
+2025-02-23 19:42:35 | main.py (INFO)
+	Starting training...
+2025-02-23 19:42:38 | training.py (INFO)
+	Evaluation saved to E:/Python/mock_data_science_project/metrics/20250223T194234_ExtraTreesClassifier
+2025-02-23 19:42:40 | training.py (INFO)
+	Model saved to E:/Python/mock_data_science_project/models/20250223T194234_ExtraTreesClassifier
+2025-02-23 19:42:40 | main.py (INFO)
+	Done training!

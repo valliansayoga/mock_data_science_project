@@ -1,0 +1,22 @@
+[project]
+name            = "mock-data-science-project"
+version         = "0.1.0"
+description     = "To learn and apply data science project architecture"
+readme          = "README.md"
+requires-python = ">=3.13"
+license         = {text = "MIT License"}
+dependencies    = [
+    "scikit-learn",
+    "pandas",
+    "numpy",
+    "seaborn",
+    "matplotlib",
+    "sqlalchemy",
+    "tomli",
+    "rich",
+    "ruff",
+    "dotenv",
+    "pytest",
+    "ipykernel",
+    "uv",
+]
